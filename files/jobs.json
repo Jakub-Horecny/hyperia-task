@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Python developer - študent",
+        "place": "Slovensko",
+        "salary": "6 € / hodina",
+        "contract_type": "dohoda o brig. práci študenta",
+        "contact_email": "hr@hyperia.sk",
+        "description": "Do tímu pre projekt Kimbino hľadáme šikovných študentov, ktorých baví programovať a neboja sa výziev. Hľadáme zodpovedných mladých ľudí na dlhodobejšiu spoluprácu. Ak ťa baví programovanie v Python-e a máš chuť zbierať skúsenosti v tejto oblasti, pošli svoje CVčko.",
+        "salary_description": ""
+    },
+    {
+        "title": "Senior PPC špecialista",
+        "place": "Slovensko",
+        "salary": "od 1 800,- €",
+        "contract_type": "TPP, živnosť",
+        "contact_email": "hr@hyperia.sk",
+        "description": "Do tímu hľadáme senior PPC špecialistu.",
+        "salary_description": ""
+    },
+    {
+        "title": "Product owner",
+        "place": "Slovensko",
+        "salary": "od 2 000 ,- €",
+        "contract_type": "TPP, živnosť",
+        "contact_email": "hr@hyperia.sk",
+        "description": "Hľadáme bystrého, samostatného a zodpovedného člena produktového tímu, ktorý prevezme zodpovednosť za skvalitňovanie konkrétnych oblastí na medzinárodnom projekte Kimbino. Ak máš rád výzvy, si kreatívny, pracoval si na podobnej pozícii a máš v tejto oblasti bohaté skúsenosti, radi sa s tebou stretneme. Pracovať môžeš fullremote s občasnými návštevami v žilinskom office.",
+        "salary_description": ""
+    },
+    {
+        "title": "Lead Frontend developer",
+        "place": "Slovensko",
+        "salary": "2 000 - 4 000 ,- €",
+        "contract_type": "TPP, živnosť",
+        "contact_email": "hr@hyperia.sk",
+        "description": "Do partie hľadáme skúseného senior frontend developera, ktorý nám pomôže vďaka svojim skúsenostiam naďalej zlepšovať náš medzinárodný projekt Kimbino.",
+        "salary_description": "( Suma pri živnosti na základe skúseností uchádzača )"
+    },
+    {
+        "title": "Frontend developer (medior/senior)",
+        "place": "Slovensko",
+        "salary": "2 000 - 4 000 ,- €",
+        "contract_type": "TPP, živnosť",
+        "contact_email": "hr@hyperia.sk",
+        "description": "Do partie hľadáme ďalšieho šikovného a skúseného frontend developera či developerku, ktorí nám pomôžu naďalej zlepšovať náš medzinárodný projekt Kimbino.",
+        "salary_description": "( Suma pri živnosti na základe skúseností uchádzača )"
+    },
+    {
+        "title": "Kimbino senior PHP developer",
+        "place": "Slovensko",
+        "salary": "od 2 000 ,- €",
+        "contract_type": "TPP, živnosť",
+        "contact_email": "hr@hyperia.sk",
+        "description": "Rastieme raketovým tempom a do tímu hľadáme ďalších skúsených PHP developerov alebo developerky. Áno, čítaš správne, množné číslo.",
+        "salary_description": ""
+    }
+]
