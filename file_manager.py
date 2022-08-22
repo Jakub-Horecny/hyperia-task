@@ -10,7 +10,7 @@ class FileManager:
 
     def save_as_json_file(self, data: list) -> None:
         """
-        Saves job offers in a json file
+        Saves job offers to a json file
         :param data: list of job offers
         """
         with open(self.JSON_FILE, 'w', encoding='utf8') as file:
