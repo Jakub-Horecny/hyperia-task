@@ -27,7 +27,7 @@ class Parser:
 
     def get_all_jobs_from_website(self) -> None:
         """
-        Gets all the jobs from hyperia web side and save them in a .json file
+        Gets all the jobs from hyperia web side and save them to a json file
         :rtype: None
         """
         html_text: bytes = requests.get(self.WEB_SIDE_URL + self.JOBS_URL).content
@@ -44,7 +44,7 @@ class Parser:
                                        description, salary_description)
             jobs_list.append(offer)
 
-        # saves to file
+        # saves to a file
         self.file_manager.save_as_json_file(jobs_list)
 
     def __get_job_data(self, job: Tag) -> [str, str, str, str, str, str]:
